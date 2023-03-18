@@ -11,16 +11,8 @@
   "timestamp": "2023-02-27T20:37:00.000+00:00",
   "tokens": [
     {
-      "name": "Klima",
-      "address": "0x229657BCBB31D9d8C6d92AcC9236647B387E8994",
-      "symbol": "KLIMA",
-      "decimals": 18,
-      "chainId": 5001,
-      "logoURI": "https://assets.coingecko.com/coins/images/19169/small/klima-logo.png?1634606729"
-    },
-    {
       "name": "ChainLink",
-      "address": "0xbB26b3f5A59a78Ea65e8629859A1b7283489D503",
+      "address": "0x1f1B52e128fB5edC3739fD18581c52E7a7b53306  ",
       "symbol": "LINK",
       "decimals": 18,
       "chainId": 5001,
@@ -28,17 +20,25 @@
     },
     {
       "name": "Gnosis",
-      "address": "0x70e85244786d2B3E66FfB4562C744EfA6489C2D6",
+      "address": "0xE39743049DD99E87965CFCa2e5a4515C207Bf857  ",
       "symbol": "GNO",
-      "decimals": 18,
+      "decimals": 9,
       "chainId": 5001,
       "logoURI": "https://assets.coingecko.com/coins/images/662/small/logo_square_simple_300px.png?1609402668"
     },
     {
+      "name": "Klima",
+      "address": "0x59Fa649e3F41A9124845Df1e7d13b223774B32Fb  ",
+      "symbol": "KLIMA",
+      "decimals": 9,
+      "chainId": 5001,
+      "logoURI": "https://assets.coingecko.com/coins/images/19169/small/klima-logo.png?1634606729"
+    },
+    {
       "name": "USDC",
-      "address": "0x70e85244786d2B3E66FfB4562C744EfA6489C2D6",
+      "address": "0x3D2ecA23e9f7fb2Dd5b759b3e1681BA48f98fe8E ",
       "symbol": "USDC",
-      "decimals": 18,
+      "decimals": 6,
       "chainId": 5001,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
     }
