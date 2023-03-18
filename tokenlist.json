@@ -12,7 +12,7 @@
   "tokens": [
     {
       "name": "ChainLink",
-      "address": "0x1f1B52e128fB5edC3739fD18581c52E7a7b53306  ",
+      "address": "0x1f1B52e128fB5edC3739fD18581c52E7a7b53306",
       "symbol": "LINK",
       "decimals": 18,
       "chainId": 5001,
@@ -20,7 +20,7 @@
     },
     {
       "name": "Gnosis",
-      "address": "0xE39743049DD99E87965CFCa2e5a4515C207Bf857  ",
+      "address": "0xE39743049DD99E87965CFCa2e5a4515C207Bf857",
       "symbol": "GNO",
       "decimals": 9,
       "chainId": 5001,
@@ -28,7 +28,7 @@
     },
     {
       "name": "Klima",
-      "address": "0x59Fa649e3F41A9124845Df1e7d13b223774B32Fb  ",
+      "address": "0x59Fa649e3F41A9124845Df1e7d13b223774B32Fb",
       "symbol": "KLIMA",
       "decimals": 9,
       "chainId": 5001,
@@ -36,7 +36,7 @@
     },
     {
       "name": "USDC",
-      "address": "0x3D2ecA23e9f7fb2Dd5b759b3e1681BA48f98fe8E ",
+      "address": "0x3D2ecA23e9f7fb2Dd5b759b3e1681BA48f98fe8E",
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 5001,
