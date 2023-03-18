@@ -1,0 +1,46 @@
+{
+  "name": "Mantle Testnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  
+  "logoURI": "https://avatars.githubusercontent.com/u/110459454?s=200&v=4",
+  "keywords": ["bit", "mantle", "tokens"],
+  "timestamp": "2023-02-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "name": "Klima",
+      "address": "0x229657BCBB31D9d8C6d92AcC9236647B387E8994",
+      "symbol": "KLIMA",
+      "decimals": 9,
+      "chainId": 5001,
+      "logoURI": "https://assets.coingecko.com/coins/images/19169/small/klima-logo.png?1634606729"
+    },
+    {
+      "name": "ChainLink",
+      "address": "0xbB26b3f5A59a78Ea65e8629859A1b7283489D503",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 5001,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700"
+    },
+    {
+      "name": "Gnosis",
+      "address": "0x70e85244786d2B3E66FfB4562C744EfA6489C2D6",
+      "symbol": "GNO",
+      "decimals": 18,
+      "chainId": 5001,
+      "logoURI": "https://assets.coingecko.com/coins/images/662/small/logo_square_simple_300px.png?1609402668"
+    },
+    {
+      "name": "USDC",
+      "address": "0x70e85244786d2B3E66FfB4562C744EfA6489C2D6",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 5001,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
+    }
+  ]
+}
